@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: antoshkin/api_yamdb_final:latest   
+    image: jood2302/api_yamdb_final:latest   
     restart: always
     volumes:
       - static_value:/app/static/

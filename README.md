@@ -120,4 +120,4 @@ TELEGRAM_TOKEN # Токен телеграм-бота.
 
 
 ***Над проектом работал:***
-* Leonid Slavutin | Github:https://github.com/jood2302 
+* Leonid Slavutin | Github:https://github.com/jood2302
